@@ -1,0 +1,54 @@
+body{
+    background-color: #084757;
+}
+
+h1{
+    color: #0db6e0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h2{
+    color: #dad604;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+
+#imgGPT{
+    display: flex;
+    justify-content: center;
+}
+
+h3{
+    color: #dad604;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    text-align: justify;
+}
+
+p{
+    color: #0db6e0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+
+.tt_ref{
+    color: #dad604;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    text-align: justify;
+}
+
+.referencias{
+    color: #0db6e0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    text-align: justify;
+}
+
+a{
+    color: rgb(43, 124, 156);
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+}

@@ -1,0 +1,30 @@
+body{
+    background-color: #0e6c84;
+}
+
+h1{
+    color: #0db6e0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#foto_perfil{
+    display: flex;
+    justify-content: center;
+}
+
+.topicos{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+
+.subtopicos{
+    color: #044e61;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
